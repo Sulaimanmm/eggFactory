@@ -1,0 +1,10 @@
+const String landingScreen = "/landingScreen";
+const String logInScreen = "/logInScreen";
+const String registerScreen = "/registerScreen";
+const String otpVerificationScreen = '/otpVerificationScreen';
+const String bottomNavigationScreen = '/bottomNavigationScreen';
+const String profileScreen = '/profileScreen';
+const String addAreaScreen = '/addAreaScreen';
+const String addSellerScreen = '/addSellerScreen';
+const String addShopsScreen = '/addShopScreen';
+const String loadViewScreen = '/loadViewScreen';
